@@ -1,4 +1,4 @@
-# lykilord
+
 
 Búið til af Arnóri Þorleifssyni aka. NoriThorleifs
 
