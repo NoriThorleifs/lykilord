@@ -25,5 +25,4 @@ python .\lykilord.py -s nnnn
 Auk þess má flytja skjalið í þitt egið verkefni.
 
 from lykilord import lykilorðaGerðin 
-
 print(lykilorðaGerðin("ooo"))
