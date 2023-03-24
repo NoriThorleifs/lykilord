@@ -23,6 +23,7 @@ python .\lykilord.py -s nnnn
 4570
 
 Auk þess má flytja skjalið í þitt egið verkefni.
+
 from lykilord import lykilorðaGerðin 
 
 print(lykilorðaGerðin("ooo"))
